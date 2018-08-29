@@ -1,0 +1,1 @@
+reads that map to exactly one location = 16606487
