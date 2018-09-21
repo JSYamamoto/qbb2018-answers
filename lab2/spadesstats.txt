@@ -1,0 +1,2 @@
+Fragment count is = 128 Min value is = 207 Max value is = 1737 Average value is = 389.203125
+372
